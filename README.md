@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jha</h1>
 <h3 align="center">Programmer , Developer , Open Source Contributor</h3>
 
-- 👨‍💻 All of my projects are available at [https://65d6d89255b6e55841ecac3d--grand-caramel-3ad360.netlify.app/](https://65d6d89255b6e55841ecac3d--grand-caramel-3ad360.netlify.app/)
-
-- 📫 How to reach me **jhaadarsh195@gmail.com**
-
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/yzhim6lr0q7lm9v66tmvu/adarshjhaR_ML.pdf?rlkey=1kz8h3cdm0rdfvvp4ic8v8nm9&dl=0](https://www.dropbox.com/scl/fi/yzhim6lr0q7lm9v66tmvu/adarshjhaR_ML.pdf?rlkey=1kz8h3cdm0rdfvvp4ic8v8nm9&dl=0)
+- 📫 Mail **jhaadarsh195@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
