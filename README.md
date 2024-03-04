@@ -20,4 +20,7 @@
 
 <br>
 <h3 align="left">Badges:</h3>
-[![An image of @adarshjha7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adarshjha7)](https://holopin.io/@adarshjha7)
+<a href="https://holopin.io/@adarshjha7" target="_blank">
+  <img src="https://holopin.me/adarshjha7" alt="An image of @adarshjha7's Holopin badges, which is a link to view their full Holopin profile">
+</a>
+
