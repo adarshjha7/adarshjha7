@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jha</h1>
-<h3 align="center">Programmer , Developer , Open Source Contributor.</h3>
+<h3 align="center">Programmer, Developer, Open Source Contributor.</h3>
 
 - 📫 Mail **jhaadarsh195@gmail.com**
 
